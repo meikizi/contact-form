@@ -1,0 +1,10 @@
+.thanks__content {
+    margin: 0 auto;
+    padding: 32px 16px;
+    max-width: 1230px;
+}
+
+.thanks__heading {
+    margin-bottom: 40px;
+    text-align: center;
+}
